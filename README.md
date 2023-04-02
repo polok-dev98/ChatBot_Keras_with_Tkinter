@@ -2,7 +2,7 @@
 
  Here dataset made by own in JSON format, you can add more content or intent to the dataset for better response.
  
- # About the project:
+ # About the project :
  
  1. Perform the text preprocessing steps such as stemming, data cleaning and duplicate words remove and create word embeddings (bag of words).
  
